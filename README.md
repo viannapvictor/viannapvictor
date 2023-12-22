@@ -1,30 +1,18 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!!!</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, reveryone👋. I'm Victor! A software engineer student from Brazil, crazy for technology.</h1></summary>
 </div>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-    
-<hr>
-
-<!-- Presentation -->
-<p>
-  Hi, reveryone👋. I'm Victor! A software engineer student from Brazil, crazy for technology.
-
-  - I’m currently studying software engineer degree at Instituto Infnet.  <img height="50" width="100" align="center" alt="html5" src="https://www.infnet.edu.br/infnet/wp-content/uploads/sites/6/2022/03/infnet_versao-principal-01-scaled.jpg" />
-
-  - I am looking for my first job opportunity. My dream is to one day work as software development.
-</p>
-
-<hr>
 
 <!-- Dropdown -->
-<p>
- 👨‍💻 About me
+## ⭐️ Sobre mim
 
+  - I’m currently studying software engineer degree at <a href="https://www.infnet.edu.br/infnet/home/">Instituto Infnet</a>.  
+  - I am looking for my first job opportunity. My dream is to one day work as software development.
   - I am 28 years old, currently living in Brazil. I have experience with Java, Spring Boot, C#, .Net, Reactive Native, React JS, HTML5 and CSS (flexbox and grid layout). I'm also work as financial analyst, which helped me develop important skills such as creativity, communication and teamwork.I enjoy reading mangas, playing games, as well as training jiujitsu!
     
 </p>

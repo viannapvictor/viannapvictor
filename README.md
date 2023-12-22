@@ -9,7 +9,7 @@
 </div>
 
 <!-- Dropdown -->
-## ⭐️ Sobre mim
+## ⭐️ About me
 
   - I’m a software engineer student from Brazil, crazy for technology, studying at <a href="https://www.infnet.edu.br/infnet/home/">Instituto Infnet</a>.  
   - I am looking for my first job opportunity. My dream is to one day work as software developer.

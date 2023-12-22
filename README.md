@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, reveryone👋. I'm Victor! A software engineer student from Brazil, crazy for technology.</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, reveryone👋. I'm Victor!</h1></summary>
 </div>
 
 <div align="center">
@@ -11,13 +11,22 @@
 <!-- Dropdown -->
 ## ⭐️ Sobre mim
 
-  - I’m currently studying software engineer degree at <a href="https://www.infnet.edu.br/infnet/home/">Instituto Infnet</a>.  
-  - I am looking for my first job opportunity. My dream is to one day work as software development.
+  - I’m a software engineer student from Brazil, crazy for technology, studying at <a href="https://www.infnet.edu.br/infnet/home/">Instituto Infnet</a>.  
+  - I am looking for my first job opportunity. My dream is to one day work as software developer.
   - I am 28 years old, currently living in Brazil. I have experience with Java, Spring Boot, C#, .Net, Reactive Native, React JS, HTML5 and CSS (flexbox and grid layout). I'm also work as financial analyst, which helped me develop important skills such as creativity, communication and teamwork.I enjoy reading mangas, playing games, as well as training jiujitsu!
-    
-</p>
-<hr>
 
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 Software Engineer</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://media4.giphy.com/media/PiuL0MyzhlQv9fkNrY/200.gif?cid=ecf05e47sccw2v67rwyh9phr7w613ij38xsg682t004tt9kj&ep=v1_gifs_search&rid=200.gif&ct=g" width="300px" height="170px"></td>
+    </tr>
+  </table>
+</div>
+
+##
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorpaivavianna/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viannapaivavictor/)
@@ -25,17 +34,12 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=viannapvictor&show_icons=true&theme=dracula)
 
-<hr>
 <!-- Portfolio -->
 
-## Portfolio:
+## ⭐️ Portfolio:
 * [Java/Spring Boot/SQL - Pic-Pay Back-End challenge](https://github.com/viannapvictor/AppSimpleBank)
 * [C#/React/RN - Web and Mobile App for security registers](https://github.com/23E123E2DFEFLN2/slogs-project)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->

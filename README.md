@@ -11,8 +11,7 @@
 <!-- Dropdown -->
 ## ⭐️ About me
 
-  - I’m a software engineer student from Brazil, crazy for technology, studying at <a href="https://www.infnet.edu.br/infnet/home/">Instituto Infnet</a>.  
-  - I am looking for my first job opportunity. My dream is to one day work as software developer.
+  - I’m a software engineer from Brazil, crazy for technology, studying at <a href="https://www.infnet.edu.br/infnet/home/">Instituto Infnet</a>.  
   - I am 28 years old, currently living in Brazil. I have experience with Java, Spring Boot, C#, .Net, Reactive Native, React JS, HTML5 and CSS (flexbox and grid layout). I'm also work as financial analyst, which helped me develop important skills such as creativity, communication and teamwork.I enjoy reading mangas, playing games, as well as training jiujitsu!
 
 <div align="center">
@@ -38,7 +37,7 @@
 
 ## ⭐️ Portfolio:
 * [Java/Spring Boot/SQL - Pic-Pay Back-End challenge](https://github.com/viannapvictor/AppSimpleBank)
-* [C#/React/RN - Web and Mobile App for security registers](https://github.com/23E123E2DFEFLN2/slogs-project)
+* [C#/React/RN - Web and Mobile App for security registers](https://github.com/viannapvictor/slogs-project)
 
 
 ## 🔥 Skills

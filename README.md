@@ -12,7 +12,7 @@
 ## ⭐️ About me
 
   - I’m a software engineer from Brazil, crazy for technology, studying at <a href="https://www.infnet.edu.br/infnet/home/">Instituto Infnet</a>.  
-  - I am 28 years old, currently living in Brazil. I have experience with Java, Spring Boot, C#, .Net, Reactive Native, React JS, HTML5 and CSS (flexbox and grid layout). I'm also work as financial analyst, which helped me develop important skills such as creativity, communication and teamwork.I enjoy reading mangas, playing games, as well as training jiujitsu!
+  - I am 28 years old, currently living in Brazil. I have experience with Java, Spring Boot, C#, .Net, Reactive Native, React JS, HTML5 and CSS (flexbox and grid layout). I'm also work as financial analyst, which helped me develop important skills such as creativity, communication and teamwork. I enjoy reading mangas, playing games, as well as training jiujitsu!
 
 <div align="center">
   <table>

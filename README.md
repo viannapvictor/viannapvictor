@@ -35,7 +35,7 @@
 
 <!-- Portfolio -->
 
-## ⭐️ Portfolio:
+## 📊 Portfolio:
 * [Java/Spring Boot/SQL - Pic-Pay Back-End challenge](https://github.com/viannapvictor/AppSimpleBank)
 * [C#/React/RN - Web and Mobile App for security registers](https://github.com/viannapvictor/slogs-project)
 

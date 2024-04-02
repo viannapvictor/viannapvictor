@@ -3,11 +3,6 @@
     <summary><h1 style="display: inline-block">Hi, everyone👋. I'm Victor!</h1></summary>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!-- Dropdown -->
 ## ⭐️ About me
 
